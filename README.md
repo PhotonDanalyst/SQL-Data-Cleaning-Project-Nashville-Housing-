@@ -56,7 +56,8 @@ WHERE id NOT IN (
 );
 
 
-Data Cleaning Steps
+## Data Cleaning Steps
+
 - Loading Data: Import the dataset into the SQL database.
 - Handling Missing Values: Use SQL queries to identify and address NULL values.
 - Correcting Data Types: Ensure that columns have appropriate data types (e.g., converting strings to dates).
